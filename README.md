@@ -28,9 +28,17 @@ Here -:
 git clone https://github.com/HackersTech/anon-terminal_chat
 
 cd anon-terminal_chat
+```
+### to start server from host side
+
+ ```
 python3 server.py
 ```
 
+### to join server
+```
+python3 cli.py
+```
 ---
 <a href="https://www.youtube.com/channel/UCPrDMeLw78mVPUjB1YlCsVw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
 
