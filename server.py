@@ -12,7 +12,7 @@ print("""
 made by hacKer X
 """)
 host = 'localhost'
-port = int(input())
+port = int(input('enter port : '))
 
 # Starting Server
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
